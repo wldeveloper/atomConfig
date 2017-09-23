@@ -1,0 +1,35 @@
+"*":
+  "atom-clock":
+    locale: "zh_CN"
+    showClockIcon: true
+    showTooltip: true
+  core:
+    automaticallyUpdate: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "D:\\imooc"
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    softWrap: true
+  "exception-reporting":
+    userId: "6890914d-14f8-4567-b5bc-cd222a528e6b"
+  minimap: {}
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
